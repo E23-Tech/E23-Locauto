@@ -2,7 +2,7 @@
   "name": "demo-locauto",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://E23-Tech.github.io/E23-Locauto",
+  "homepage": "https://E23-Tech.github.io/E23-Locauto/",
   "type": "module",
   "scripts": {
     "dev": "vite",
